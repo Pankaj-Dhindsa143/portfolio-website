@@ -1159,6 +1159,11 @@ servises page start
     .fouter-grid-3-colum {
         padding: 0px;
     }
+ .fouter-grid-3-colum .copy{
+  width:100%;
+  padding:-2px;
+  font-size:10px;
+ }
 }
 
 @media all and (max-width:280px) {
