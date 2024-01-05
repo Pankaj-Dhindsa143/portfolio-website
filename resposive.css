@@ -1005,7 +1005,7 @@ servises page start
 
 }
 
-@media all and (max-width:325px) {
+@media all and (max-width:340px) {
     .main-section {
         padding-left: 10px;
     }
