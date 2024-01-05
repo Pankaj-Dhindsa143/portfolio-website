@@ -981,7 +981,7 @@ servises page start
 
 
 }
-@media all and (max-width:375px) {
+@media all and (max-width:385px) {
 
     /*<================
    main-name
@@ -1018,7 +1018,7 @@ servises page start
 
 }
 
-@media all and (max-width:340px) {
+@media all and (max-width:345px) {
     .main-section {
         padding-left: 10px;
     }
@@ -1040,7 +1040,9 @@ servises page start
         margin-top: 10px;
     }
 
-
+.main-top .container p {
+    font-size: 13px;
+}
 
     .main-img-cantener {
         height: 80vh;
@@ -1068,6 +1070,17 @@ servises page start
         height: 370px;
         width: 280px;
     }
+ .about-box2 h3 {
+    font-size: 15px;
+}
+.section p{
+ font-size:12px;
+}
+ 
+ .section-2-box p {
+    font-size: 13px;
+}
+
 /*<=================
    Portfolio-sectionn 
 ===================>*/
@@ -1126,16 +1139,16 @@ servises page start
     }
 
     .name-input h4 {
-        margin-left: 1px;
+        margin-left: -5px;
     }
 
     form input {
-        padding: 8px;
+        padding: 5px;
         font-size: 12px;
     }
 
     form h4 {
-        font-size: 13px;
+        font-size: 10px;
     }
 
 
