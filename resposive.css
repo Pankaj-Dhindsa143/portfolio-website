@@ -712,6 +712,11 @@ main page start
         height: 60vh;
         padding: 3rem 0 0 2rem;
     }
+ .main-top .container h3 {
+    font-size: 16px;
+   
+}
+
     .main-top .container h1 span,
     .main-top .container h1 {
         font-size: 35px;
@@ -752,7 +757,7 @@ about page start
     }
 
     .about-img-box p {
-        font-size: 18px;
+        font-size: 15px;
         font-weight: 200;
     }
 
@@ -783,7 +788,7 @@ about page start
 
     }
     .section-skils .skils-p {
-        font-size: 18px;
+        font-size: 15px;
        
     }
     .bio-stats h3 {
@@ -845,7 +850,7 @@ servises page start
     .p-btn {
         display: inline-block;
     
-        font-size: 18px;
+        font-size: 15px;
         font-weight: 600;
         padding: 10px;
         margin-bottom: 20px;
