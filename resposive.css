@@ -1050,9 +1050,12 @@ servises page start
         height: 370px;
         width: 280px;
     }
-
-
-
+/*<=================
+   Portfolio-sectionn 
+===================>*/
+.p-btn {
+    font-size: 14px;
+}
 
     /*<================
    CONTACT-sectionn 
