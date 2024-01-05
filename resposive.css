@@ -1040,8 +1040,8 @@ servises page start
         margin-top: 10px;
     }
 
-.main-top .container p {
-    font-size: 13px;
+.main-section .main-top .container p {
+    font-size: 10px;
 }
 
     .main-img-cantener {
@@ -1081,6 +1081,15 @@ servises page start
     font-size: 13px;
 }
 
+ .section-Services-p{
+   font-size: 12px;
+ }
+ .section-2-box p{
+ font-size: 12px;
+ }
+
+
+ 
 /*<=================
    Portfolio-sectionn 
 ===================>*/
@@ -1114,10 +1123,15 @@ servises page start
         margin: 20px 0 0 0px;
     }
 
-    .contact-num-heading h4,
-    h4 a {
-        font-size: 15px;
-    }
+   
+ .contact-num-heading h3 {
+    font-size: 15px;
+}
+
+.contact-num-heading h4,
+h4 a {
+    font-size: 13px;
+}
 
     .contact-map {
         height: 300px;
