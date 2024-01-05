@@ -1017,6 +1017,11 @@ servises page start
     .main-section {
         padding-left: 10px;
     }
+ .main-top .container h3 {
+    font-size: 15px;
+  
+}
+
 
     .main-top .container h1 spa,
     .main-top .container h1 {
@@ -1121,11 +1126,11 @@ servises page start
 
     form input {
         padding: 8px;
-        font-size: 15px;
+        font-size: 12px;
     }
 
     form h4 {
-        font-size: 18px;
+        font-size: 13px;
     }
 
 
