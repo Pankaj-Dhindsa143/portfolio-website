@@ -1006,6 +1006,27 @@ servises page start
         font-size: 24px;
 
     }
+ .main-section .main-top .container p {
+    font-size: 10px;
+}
+  .about-box2 h3 {
+    font-size: 15px;
+}
+.section p{
+ font-size:12px;
+}
+ 
+ .section-2-box p {
+    font-size: 13px;
+}
+
+ .section-Services-p{
+   font-size: 12px;
+ }
+ .section-2-box p{
+ font-size: 12px;
+ }
+
 .name-input {
         display: block;
         margin-left: 0px;
@@ -1070,23 +1091,7 @@ servises page start
         height: 370px;
         width: 280px;
     }
- .about-box2 h3 {
-    font-size: 15px;
-}
-.section p{
- font-size:12px;
-}
- 
- .section-2-box p {
-    font-size: 13px;
-}
 
- .section-Services-p{
-   font-size: 12px;
- }
- .section-2-box p{
- font-size: 12px;
- }
 
 
  
