@@ -26,15 +26,7 @@ document.querySelector(".concat_link").addEventListener("click" ,()=>{
     duration: 700,
 });
 
-// <=====preloader====>
-let preloader = document.querySelector(".loder")
 
-function myloader(){
-  setInterval(function () {
-    preloader.style.display ="none";
-
-  }, 1500);
-}
 
 // <=====Response navvar====>
 const mobile_nav = document.querySelector(".mobile-navbar-btn");
